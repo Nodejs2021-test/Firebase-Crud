@@ -3,12 +3,12 @@ import { getFirestore, collection, getDocs, onSnapshot, addDoc, deleteDoc, doc, 
 import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, signOut } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAHY4DwPJatBS04s9m8_uVX_6cKNhqsUuU",
-  authDomain: "fir-964a5.firebaseapp.com",
-  projectId: "fir-964a5",
-  storageBucket: "fir-964a5.appspot.com",
-  messagingSenderId: "168154364942",
-  appId: "1:168154364942:web:da72413f8f0f4b77b0105f"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
